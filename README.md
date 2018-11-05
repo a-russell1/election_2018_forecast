@@ -24,4 +24,4 @@ Toss-Up's to watch are:
     - I predict this race will be within 2%, with Anthony Brindisi (D) taking the slight victory over incumbent Claudia Tenney (R)*
     
     
-* denotes the incumbent running
+- * denotes the incumbent running
